@@ -124,6 +124,7 @@ namespace HomeWork_Makarov_Ivan_number_3._1
                 {
                     Console.Write($"{array[i][j]}");
                 }
+                Console.Write("\n");
             }
         }
     }
